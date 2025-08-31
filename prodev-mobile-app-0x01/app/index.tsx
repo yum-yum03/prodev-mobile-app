@@ -16,10 +16,6 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     backgroundColor: "#90caf9",
-    flex: 1,
-    alignItems: "center",
-    justifyContent: "center",
-    padding: 16,
   },
   largeText: {
     fontSize: 30,
